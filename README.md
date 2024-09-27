@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to my GitHub profile
 
-<!--
-**Taildsuav/Taildsuav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Taildsuav**, but you can call me **Sapo (Frog)** 🐸
 
-Here are some ideas to get you started:
+- 😄 **Pronouns:** He/Him
+- 🌱 **Currently Learning:** C++, C#, Python, HTML, CSS, MySQL (always open to learning more!)
+- 👯 **Looking to Collaborate:** I'm eager to contribute to projects, especially for learning and improving my skills.
+- 📫 **Contact Me:** You can reach me on Discord at **@saposapo**.
+- 🌍 **Location:** I’m based in Brazil 🇧🇷
+- 💬 **Languages:** Fluent in Portuguese and English
+- 🍼 **GitHub Newbie:** Still learning my way around GitHub and other cool tools. 😄 Any tips or guidance is always welcome!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools I'm Exploring
+
+- **Languages:** C++, C#, Python, HTML, CSS
+- **Databases:** MySQL
+- **Other Tools:** Git, GitHub, Visual Studio Code
+
+---
+
+### ⚡ Fun Facts:
+
+- I love frogs (hence the nickname 🐸)!
+- Passionate about learning and always trying to level up my coding skills.
+- Looking to collaborate with anyone who’s open to teaching or sharing knowledge.
+
+---
+
+Feel free to connect with me, especially if you have some cool projects or advice for a beginner like me! 😊
