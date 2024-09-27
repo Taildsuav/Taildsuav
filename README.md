@@ -1,14 +1,22 @@
 ## Hi there! 👋 Welcome to my GitHub profile
 
-I'm **Taildsuav**, but you can call me **Sapo (Frog)** 🐸
+I'm **Guilherme**, but you can call me **Sapo (Frog)** 🐸 _or Taildsuav_
 
 - 😄 **Pronouns:** He/Him
 - 🌱 **Currently Learning:** C++, C#, Python, HTML, CSS, MySQL (always open to learning more!)
 - 👯 **Looking to Collaborate:** I'm eager to contribute to projects, especially for learning and improving my skills.
-- 📫 **Contact Me:** You can reach me on Discord at **@saposapo**.
 - 🌍 **Location:** I’m based in Brazil 🇧🇷
 - 💬 **Languages:** Fluent in Portuguese and English
 - 🍼 **GitHub Newbie:** Still learning my way around GitHub and other cool tools. 😄 Any tips or guidance is always welcome!
+
+---
+
+### 📫 **Contact Me**
+
+💬 **Discord:** @saposapo  
+📧 **Email:** [guilhermelealnb@gmail.com](mailto:guilhermelealnb@gmail.com)
+
+🚀 **I’m actively looking to connect with fellow developers, collaborators, and mentors! Feel free to reach out on Discord or shoot me an email for projects, advice, or just to chat!** I’d love to hear from you! 😄
 
 ---
 
@@ -28,4 +36,4 @@ I'm **Taildsuav**, but you can call me **Sapo (Frog)** 🐸
 
 ---
 
-Feel free to connect with me, especially if you have some cool projects or advice for a beginner like me! 😊
+Don't hesitate to **reach out**—I'm excited to connect and learn together!
